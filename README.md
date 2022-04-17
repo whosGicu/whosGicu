@@ -1,6 +1,6 @@
-# Hi there, I'm Gicu - aka [whosGicu][https://www.youtube.com/channel/UCCtaTGb15TiZ59y3lrh4Nrg] 👋 
+# Hi there, I'm Gicu - aka [whosGicu](https://www.youtube.com/channel/UCCtaTGb15TiZ59y3lrh4Nrg) 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCtaTGb15TiZ59y3lrh4Nrg?logo=youtube&logoColor=red&style=for-the-badge)][https://www.youtube.com/channel/UCCtaTGb15TiZ59y3lrh4Nrg]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCtaTGb15TiZ59y3lrh4Nrg?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCCtaTGb15TiZ59y3lrh4Nrg)
 [![Website](https://img.shields.io/website?label=rocobot.fun&style=for-the-badge&url=https://rocobot.fun)](https://rocobot.fun)
 
 
