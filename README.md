@@ -37,7 +37,10 @@
   
 ---
 
- :zap: Discord Stats
+<br />
+<br />
+
+### :zap: Discord Stats
   
   <img aling="left" alt="whosGicu's Discord Statistic" src="https://discord.c99.nl/widget/theme-1/907974428577652737.png" />
 
