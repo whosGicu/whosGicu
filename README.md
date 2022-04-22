@@ -37,7 +37,7 @@
   
 ---
 
-  <img aling="left" alt="whosGicu's Discord Statistic" src="https://discord.c99.nl/widget/theme-1/907974428577652737.png" />
+  <img aling="center" alt="whosGicu's Discord Statistic" src="https://discord.c99.nl/widget/theme-1/907974428577652737.png" />
 
 
 [website]: https://rocobot.fun
